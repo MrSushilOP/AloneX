@@ -86,21 +86,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/n2f6fh.jpg"
+    "START_IMG_URL", "https://selx-bot.github.io/tg/img/start.png"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/n2f6fh.jpg"
+    "PING_IMG_URL", "https://selx-bot.github.io/tg/img/start.png"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/n2f6fh.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/n2f6fh.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/n2f6fh.jpg"
+PLAYLIST_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+STATS_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+TELEGRAM_AUDIO_URL = "https://selx-bot.github.io/tg/img/start.png"
+TELEGRAM_VIDEO_URL = "https://selx-bot.github.io/tg/img/start.png"
+STREAM_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+SOUNCLOUD_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+YOUTUBE_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+SPOTIFY_ARTIST_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+SPOTIFY_ALBUM_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
+SPOTIFY_PLAYLIST_IMG_URL = "https://selx-bot.github.io/tg/img/start.png"
 
 
 def time_to_seconds(time):
