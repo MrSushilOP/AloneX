@@ -174,8 +174,8 @@ queue_6 : "<b>❖ ᴅυʀᴧᴛɪση :</b> υηᴋησᴡη ᴅυʀᴧᴛɪση
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}\n\n❖ <b>sᴛʀєᴧϻ ᴛʏᴘє :</b> {2}\n❖ <b>ʀєǫυєsᴛєᴅ ʙʏ :</b> {3}\n❖ {4}"
 
-stream_1 : "<blockquote><b>❖ [𝐒ʟᴇ𝐱](https://t.me/SlexXMusicBot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b><blockquote>\n\n<blockquote><b>➣ 𝐓ɪᴛʟє :</b> <a href={0}>{1}</a> \n<b>➦ 𝐓ɪϻє :</b> {2} 𝐌ɪηυᴛєs \n<b>➦ 𝐏ℓαує∂ 𝐁у :</b> {3}<blockquote>\n\n<blockquote><b>❖ 𝐌ᴧᴅє 𝐁ʏ  ➛ [𝐒ʟᴇ𝐱](https://t.me/MrSushilOP) </b><blockquote>"
-stream_2 : "<blockquote><b>❖ [𝐒ʟᴇ𝐱](https://t.me/SlexXMusicBot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b><blockquote>\n\n<blockquote><b>➦ 𝐒ᴛʀєᴧϻ 𝐓ʏᴘє :</b> 𝐋ɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>➦ 𝐏ℓαує∂ 𝐁у :</b> {0}<blockquote>"
+stream_1 : "<blockquote><b>❖ [𝐒ʟᴇ𝐱](https://t.me/SelXMusicBot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b><blockquote>\n\n<blockquote><b>➣ 𝐓ɪᴛʟє :</b> <a href={0}>{1}</a> \n<b>➦ 𝐓ɪϻє :</b> {2} 𝐌ɪηυᴛєs \n<b>➦ 𝐏ℓαує∂ 𝐁у :</b> {3}<blockquote>\n\n<blockquote><b>❖ 𝐌ᴧᴅє 𝐁ʏ  ➛ [𝐒ʟᴇ𝐱](https://t.me/MrSushilOP) </b><blockquote>"
+stream_2 : "<blockquote><b>❖ [𝐒ʟᴇ𝐱](https://t.me/SelXMusicBot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b><blockquote>\n\n<blockquote><b>➦ 𝐒ᴛʀєᴧϻ 𝐓ʏᴘє :</b> 𝐋ɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>➦ 𝐏ℓαує∂ 𝐁у :</b> {0}<blockquote>"
 
 
 CLOSE_BUTTON  : "⌯ ᴄʟσsє ⌯"
